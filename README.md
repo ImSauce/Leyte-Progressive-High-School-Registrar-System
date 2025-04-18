@@ -2,7 +2,7 @@
 
 <p>
   A desktop-based <strong>Registrar System</strong> developed for <strong>Leyte Progressive High School</strong> to efficiently manage and store student records.
-  This application streamlines enrollment processes, organizes student data, and supports registrar staff with digital tools. This Code was made by me in my senior high days in 2023  for out programming capstone. The source code resembles an sphaghetti code, but it works and this is one of my first ever big project that I created.
+  This application streamlines enrollment processes, organizes student data, and supports registrar staff with digital tools. This Code was made by me in my senior high days in 2023  for our programming capstone. The source code resembles an sphaghetti code, but it works and this is one of my first ever big project that I created.
 </p>
 
 <hr>
