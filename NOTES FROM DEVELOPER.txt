@@ -1,0 +1,31 @@
+School Registrar Application License Agreement
+
+PLEASE READ THIS SOFTWARE LICENSE AGREEMENT ("LICENSE") CAREFULLY BEFORE INSTALLING OR USING THE SCHOOL LPHS SCHOOL REGISTRAR APPLICATION ACCOMPANYING THIS AGREEMENT.
+
+BY INSTALLING OR USING THE SOFTWARE, YOU ARE AGREEING TO BE BOUND BY THE TERMS OF THIS LICENSE. IF YOU DO NOT AGREE TO THE TERMS OF THIS LICENSE, DO NOT INSTALL OR USE THE SOFTWARE.
+
+1. License Grant
+   Subject to the terms and conditions of this License, The Developer Samuel James A. Cinco hereby grants to Leyte Progressize High School a non-exclusive, non-transferable license to use the Software for the purpose of managing the school registrar.
+
+2. Restrictions
+   Licensee shall not:
+   - Modify, adapt, alter, translate, or create derivative works of the Software.
+   - Reverse engineer, decompile, disassemble, or otherwise attempt to derive the source code for the Software.
+   - Remove, alter, or obscure any copyright, trademark, or other proprietary rights notice on or in the Software.
+
+3. Ownership
+   Licensor retains all right, title, and interest in and to the Software, including all intellectual property rights therein.
+
+4. Disclaimer of Warranty
+   THE SOFTWARE IS PROVIDED "AS IS," WITHOUT WARRANTY OF ANY KIND. LICENSOR HEREBY DISCLAIMS ALL WARRANTIES, WHETHER EXPRESS, IMPLIED, STATUTORY, OR OTHERWISE, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT.
+
+5. Limitation of Liability
+   IN NO EVENT SHALL LICENSOR BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES ARISING OUT OF OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THE SOFTWARE, WHETHER OR NOT LICENSOR HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+
+6. Governing Law
+   This License shall be governed by and construed in accordance with the laws of Intellectual Property Code of the Philippines (Republic Act No. 8293), excluding its conflicts of law principles.
+
+7. Entire Agreement
+   This License constitutes the entire agreement between the parties with respect to the use of the Software and supersedes all prior or contemporaneous agreements, understandings, and communications, whether written or oral, between the parties.
+
+By installing or using the Software, Licensee agrees to be bound by the terms and conditions of this License.
