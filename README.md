@@ -11,7 +11,6 @@
 <ul>
   <li><a href="#features">Features</a></li>
   <li><a href="#technologies-used">Technologies Used</a></li>
-  <li><a href="#project-structure">Project Structure</a></li>
   <li><a href="#getting-started">Getting Started</a></li>
   <li><a href="#about-the-school">About the School</a></li>
 
