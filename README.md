@@ -80,7 +80,7 @@ cd registrar-system</code></pre>
 <details>
   <summary><strong>2. Set Up the Database</strong></summary>
   <ul>
-    <li>Import the <code>registrar_db.sql</code> file located in the <code>/database</code> folder into your MySQL or SQLite server.</li>
+    <li>Import the <code>lphs5.sql</code> file located in the <code>/database</code> folder into your MySQL or SQLite server.</li>
     <li>Update your database connection settings inside the Java code.</li>
   </ul>
 </details>
@@ -89,7 +89,7 @@ cd registrar-system</code></pre>
   <summary><strong>3. Run the Application</strong></summary>
   <ul>
     <li>Open the project in your IDE.</li>
-    <li>Run <code>Main.java</code>.</li>
+    <li>Run <code>main.java</code>.</li>
   </ul>
 </details>
 
