@@ -73,8 +73,8 @@
 
 <details>
   <summary><strong>1. Clone the Repository</strong></summary>
-  <pre><code>git clone https://github.com/yourusername/registrar-system.git
-cd registrar-system</code></pre>
+  <pre><code>git clone https://github.com/ImSauce/Leyte-Progressive-High-School-Registrar-System.git
+</code></pre>
 </details>
 
 <details>
